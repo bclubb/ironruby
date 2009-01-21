@@ -22,42 +22,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Scripting.ExtensionAttribute", "..\..\..\..\ndp\fx\src\Core\Microsoft\Scripting\Microsoft.Scripting.ExtensionAttribute.csproj", "{8B0F1074-750E-4D64-BF23-A1E0F54261E5}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 11
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://vstfdevdiv:8080/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = IronRuby.Tests\\IronRuby.Tests.csproj
-		SccProjectName1 = IronRuby.Tests
-		SccLocalPath1 = IronRuby.Tests
-		SccProjectUniqueName2 = Ruby\\Ruby.csproj
-		SccProjectName2 = Ruby
-		SccLocalPath2 = Ruby
-		SccProjectUniqueName3 = Console\\Ruby.Console.csproj
-		SccProjectName3 = Console
-		SccLocalPath3 = Console
-		SccProjectUniqueName4 = ClassInitGenerator\\ClassInitGenerator.csproj
-		SccProjectName4 = ClassInitGenerator
-		SccLocalPath4 = ClassInitGenerator
-		SccProjectUniqueName5 = Utils\\IronRuby.Libraries.Scanner\\IronRuby.Libraries.Scanner.csproj
-		SccProjectName5 = Utils/IronRuby.Libraries.Scanner
-		SccLocalPath5 = Utils\\IronRuby.Libraries.Scanner
-		SccProjectUniqueName6 = Libraries.LCA_RESTRICTED\\IronRuby.Libraries.csproj
-		SccProjectName6 = Libraries.LCA_RESTRICTED
-		SccLocalPath6 = Libraries.LCA_RESTRICTED
-		SccProjectUniqueName7 = ..\\..\\Runtime\\Microsoft.Scripting\\Microsoft.Scripting.csproj
-		SccProjectName7 = ../../Runtime/Microsoft.Scripting
-		SccLocalPath7 = ..\\..\\Runtime\\Microsoft.Scripting
-		SccProjectUniqueName8 = ..\\..\\..\\..\\ndp\\fx\\src\\Core\\Microsoft\\Scripting\\Microsoft.Scripting.Core.csproj
-		SccProjectName8 = ../../../../ndp/fx/src/Core/Microsoft/Scripting
-		SccLocalPath8 = ..\\..\\..\\..\\ndp\\fx\\src\\Core\\Microsoft\\Scripting
-		SccProjectUniqueName9 = ..\\..\\..\\External\\Languages\\IronRuby\\yaml\\IronRuby.Libraries.Yaml\\IronRuby.Libraries.Yaml.csproj
-		SccProjectName9 = ../../../../../../../Merlin_External/Languages/IronRuby/yaml/IronRuby.Libraries.Yaml
-		SccLocalPath9 = ..\\..\\..\\External\\Languages\\IronRuby\\yaml\\IronRuby.Libraries.Yaml
-		SccProjectUniqueName10 = ..\\..\\..\\..\\ndp\\fx\\src\\Core\\Microsoft\\Scripting\\Microsoft.Scripting.ExtensionAttribute.csproj
-		SccProjectName10 = ../../../../ndp/fx/src/Core/Microsoft/Scripting
-		SccLocalPath10 = ..\\..\\..\\..\\ndp\\fx\\src\\Core\\Microsoft\\Scripting
-	EndGlobalSection
+
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		FxCop|Any CPU = FxCop|Any CPU

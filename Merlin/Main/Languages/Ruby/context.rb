@@ -527,6 +527,7 @@ class ProjectContext
     def compile(name, args)
       banner name.to_s
       working_dir = get_source_dir(name)
+      puts "working directory = " + working_dir
       build_dir = build_path
 
       Dir.chdir(working_dir) do |p|

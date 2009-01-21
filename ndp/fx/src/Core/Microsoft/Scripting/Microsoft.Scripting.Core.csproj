@@ -11,10 +11,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <RootNamespace>System.Scripting</RootNamespace>
     <AssemblyName>Microsoft.Scripting.Core</AssemblyName>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
     <DocumentationFile>..\..\..\..\..\..\Merlin\Main\Bin\Release\Microsoft.Scripting.Core.XML</DocumentationFile>
     <NoWarn>1591</NoWarn>
     <OldToolsVersion>2.0</OldToolsVersion>
